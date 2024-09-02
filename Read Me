@@ -1,1 +1,24 @@
 This is the github repository for Capstone Project: Data Collection
+
+Idea 1 - Popular Video Games recommendation system using Machine Learning
+Problem Statement: The video game industry is constantly expanding, making it overwhelming for users to find games that align with their interests. While platforms offer recommendations, they often rely on simple metrics like sales or user ratings, overlooking individual preferences and the nuanced factors that contribute to enjoyment. This can lead to frustration for users. I want to develop a machine learning model that provides personalized video game recommendations to improve user satisfaction and game discovery.
+Data needed:
+Video Games Database from Kaggle
+https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023
+file included: games.csv
+
+Idea 2 - Movie recommendation based on genre
+Problem Statement: Develop a machine learning model that accurately recommends movies to users based on their preferred genres, enhancing user satisfaction and increasing engagement with movie streaming or rental platforms.
+Data needed:
+Movies database from Kaggle
+https://www.kaggle.com/datasets/khalidalam980/top-rated-movies-data-set/data
+https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-film-statistics-dataset-for-ml
+file included: MoviesTopRated.csv and movie_statistic_dataset.csv
+
+Idea 3 - NBA prediction for player position with machine learning
+Problem Statement: Develop a machine learning model that accurately predicts the primary position of NBA players based on their physical attributes and performance statistics, aiding in player evaluation, scouting, and strategic decision-making.
+Data needed: 
+NBA players data from Kaggle
+https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats
+https://www.kaggle.com/datasets/justinas/nba-players-data
+file included: NBA players all-seasons.csv and NBA Stats Advanced.csv
